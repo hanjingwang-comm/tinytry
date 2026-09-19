@@ -1,6 +1,29 @@
 # TinyTry · 自律搭子
 
+> 不想睡、不想动、不想开工？自律搭子陪你捞自己一把，先试一小步。
+
+[立即体验 TinyTry](https://hanjingwang-comm.github.io/tinytry/)
+
 中文、手机优先的静态 H5。通过预设选择，找到这一次卡住的原因，尝试小动作，再根据反馈调整。完整覆盖睡眠、饮食、运动、玩耍和拖延。
+
+## 界面预览
+
+从“又舍不得睡”开始，看看一次小尝试怎么发生：
+
+<table>
+  <tr><th>① 选一个场景</th><th>② 找到这次的原因</th></tr>
+  <tr>
+    <td><img src="docs/screenshots/01-home.png" alt="首页：睡眠、饮食、运动、玩耍和拖延五个场景" width="300" /></td>
+    <td><img src="docs/screenshots/02-reason.png" alt="原因确认：白天没有自己的时间，想再留一点给自己" width="300" /></td>
+  </tr>
+  <tr><th>③ 试一个小办法</th><th>④ 记录真实效果</th></tr>
+  <tr>
+    <td><img src="docs/screenshots/03-methods.png" alt="方法选择：选择预设动作，也能创建自己的方法" width="300" /></td>
+    <td><img src="docs/screenshots/04-feedback.png" alt="效果验证：好像没什么用、有点意思、很有效" width="300" /></td>
+  </tr>
+</table>
+
+截图来自公开版的独立演示流程，不包含个人使用记录；点击图片可查看大图。
 
 ## 运行
 

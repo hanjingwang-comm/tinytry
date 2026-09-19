@@ -1,4 +1,4 @@
-# 自律搭子
+# TinyTry · 自律搭子
 
 中文、手机优先的静态 H5。通过预设选择，找到这一次卡住的原因，尝试小动作，再根据反馈调整。完整覆盖睡眠、饮食、运动、玩耍和拖延。
 
@@ -58,5 +58,7 @@ npm run preview -- --port 4173
 浏览器回归：安装 Playwright 的 Chromium 后运行 `npm run test:browser`。可通过 `TEST_BASE_URL` 指定已运行的预览地址、`BROWSER_EXECUTABLE_PATH` 指定本机浏览器；测试使用独立上下文，不读写用户浏览器记录。
 
 ## 公开预览
+
+[打开 TinyTry](https://hanjingwang-comm.github.io/tinytry/) · [GitHub 仓库](https://github.com/hanjingwang-comm/tinytry)
 
 推送到 `main` 后，GitHub Actions 自动执行逻辑测试、构建，并发布到 GitHub Pages。线上网址与本地网址的浏览器数据独立保存。
